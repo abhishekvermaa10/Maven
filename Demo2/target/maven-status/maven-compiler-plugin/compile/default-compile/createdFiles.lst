@@ -1,0 +1,13 @@
+com\scaleupindia\service\OwnerService.class
+com\scaleupindia\enums\Gender.class
+com\scaleupindia\repository\impl\OwnerRepositoryImpl.class
+com\scaleupindia\config\PropertiesConfig.class
+com\scaleupindia\Demo.class
+com\scaleupindia\repository\OwnerRepository.class
+com\scaleupindia\exception\InternalServiceException.class
+com\scaleupindia\util\MapperUtil.class
+com\scaleupindia\dto\OwnerDTO.class
+com\scaleupindia\config\DatabaseConfig.class
+com\scaleupindia\enums\PetType.class
+com\scaleupindia\DemoServlet.class
+com\scaleupindia\service\impl\OwnerServiceImpl.class
