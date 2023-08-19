@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS petistaan_maven;
-USE petistaan_maven;
+CREATE DATABASE IF NOT EXISTS petistaan;
+USE petistaan;
 
 CREATE TABLE owner_table (
     id INT NOT NULL,
