@@ -28,8 +28,11 @@
 <p align="justify">
   Before diving into Maven, ensure you're comfortable with the following concepts:
 <ul>
-  <li>Java</li>
-  <li>Java Database Connectivity (JDBC)</li>
+  <li>Java Basics</li>
+  <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfP5xBfI-41j3gNZ6GAsrxD-"
+        target="_blank">Java Advanced</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLJDwhlqmpSfP1FroiBGc7N3-r67VaEp0V"
+        target="_blank">Java Database Connectivity (JDBC)</a></li>
 </ul>
 You can learn these topics from my YouTube channel through dedicated playlists.
 </p>
